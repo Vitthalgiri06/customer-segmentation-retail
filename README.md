@@ -106,7 +106,7 @@ customer-segmentation-retail/
 
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone <https://github.com/Vitthalgiri06/customer-segmentation-retail >
 
 # Navigate to the project
 cd customer-segmentation-retail
@@ -151,5 +151,6 @@ This project demonstrates how machine learning can transform retail transaction 
 
 ---
 
-**Author:** Vitthal Giri
+**Author:** Vitthal Giri  
+
 **Project:** Retail Customer Segmentation
